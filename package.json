@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "f": "deMGoncalves/f"
+    "f": "deMGoncalves/f",
+    "lazyload": "deMGoncalves/lazyload"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
