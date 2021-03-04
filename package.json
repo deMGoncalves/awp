@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "f": "deMGoncalves/f",
+    "h": "deMGoncalves/h",
     "lazyload": "deMGoncalves/lazyload"
   },
   "devDependencies": {
