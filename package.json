@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cookie": "deMGoncalves/cookie",
     "f": "deMGoncalves/f",
     "h": "deMGoncalves/h",
     "lazyload": "deMGoncalves/lazyload"
